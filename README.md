@@ -8,7 +8,8 @@
 
 تقویم ساده، رایگان و آزاد اندروید به همراه ویجت و پشتیبانی از DashClock  
 برای دریافت و نصب بر برگهٔ releases در بالای صفحه کلیک کنید.
-
+سورس برنامه اصلی :
+   https://github.com/persian-calendar/DroidPersianCalendar
 </div>
 
 ## Download
